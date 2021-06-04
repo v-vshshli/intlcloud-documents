@@ -121,10 +121,10 @@ The supported regions and AZs are as follows
 <tr>
 <td>Silicon Valley Zone 2 (Silicon Valley nodes cover services in Western US)<br>na-siliconvalley-2</td></tr>
 <tr>
-<td rowspan="2">Eastern US (Ashburn) <br>na-ashburn</td>
-<td>Ashburn Zone 1 (Ashburn nodes cover services in Eastern US)<br>na-ashburn-1</td></tr>
+<td rowspan="2">Eastern US (Virginia) <br>na-ashburn</td>
+<td>Virginia Zone 1 (Virginia nodes cover services in Eastern US)<br>na-ashburn-1</td></tr>
 <tr>
-<td>Ashburn Zone 2 (Ashburn nodes cover services in Eastern US)<br>na-ashburn-2</td></tr>
+<td>Virginia Zone 2 (Virginia nodes cover services in Eastern US)<br>na-ashburn-2</td></tr>
 <tr>
 <td>North America (Toronto)<br>na-toronto</td>
 <td>Toronto Zone 1 (Toronto nodes cover services in North America)<br>na-toronto-1</td></tr>
